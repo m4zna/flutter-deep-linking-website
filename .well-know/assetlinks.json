@@ -1,0 +1,14 @@
+[
+    {
+        "relation": [
+            "delegate_permission/common.handle_all_urls"
+        ],
+        "target": {
+            "namespace": "android_app",
+            "package_name": "com.m4nzna.miscelaneos",
+            "sha256_cert_fingerprints": [
+                "76:FF:D6:FC:C8:8A:12:5C:0B:97:ED:19:FF:CB:26:C9:77:63:D8:52:CD:60:4B:E5:4F:23:21:41:B2:30:27:6A"
+            ]
+        }
+    }
+]
