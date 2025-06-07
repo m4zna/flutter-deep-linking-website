@@ -1,0 +1,27 @@
+{
+  "applinks": {
+    "apps": [],
+    "details": [
+      {
+        "appIDs": [
+          "S8QB4VV633.com.m4nzna.miscelaneos"
+        ],
+        "paths": [
+          "*"
+        ],
+        "components": [
+          {
+            "/": "/*"
+          }
+        ]
+      }
+    ]
+  },
+  "webcredentials": {
+    "apps": [
+      "S8QB4VV633.com.m4nzna.miscelaneos"
+    ]
+  }
+}
+
+//S8QB4VV633 -> de la cuenta de apple developer
